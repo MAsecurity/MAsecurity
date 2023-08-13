@@ -1,13 +1,13 @@
 ### Hi there 👋
 <br>
-Hi, I'm Mohamed also known as MAsecurity, please checkout my projects.
+Hi, I'm Mohamed also known as MAsecurity.
 </br>
 <br>
-I enjoy bulding new projects, and currently i am still learning towards the MERN stack.
+In my spare time i enjoy bulding new projects, and currently i am still learning towards the MERN stack.
 </br>
 <br>
 <h2>
-  Some tools im currently working on
+  &#x1F527; Some tools im currently working on
 </h2>
 </br>
 
