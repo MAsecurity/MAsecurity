@@ -7,7 +7,7 @@ In my spare time, i enjoy learning new things and building projects.
 </br>
 <br>
 <h2>
-  &#x1F527; Some tools im currently working with
+  &#x1F527; Tools i'm currently working with.
 </h2>
 </br>
 
