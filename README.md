@@ -1,15 +1,10 @@
-### Hi there 👋
-<br>
-Hi, I'm Mohamed also known as MAsecurity.
-</br>
-<br>
-In my spare time, i enjoy learning new things and building projects.
-</br>
-<br>
-<h2>
-  &#x1F527; Tools i'm currently working with.
-</h2>
-</br>
+## Hi there, i'm Mohamed 👋
+![Mohamed GitHub stats](https://github-readme-stats.vercel.app/api?username=MAsecurity&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAsecurity&layout=compact)
+
+<h3>
+  &#x1F527; Tools i am currrently working with.
+</h3>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
