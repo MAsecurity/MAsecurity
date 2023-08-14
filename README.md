@@ -3,7 +3,7 @@
 Hi, I'm Mohamed also known as MAsecurity.
 </br>
 <br>
-In my spare time i enjoy building new projects, and learning new things.
+In my spare time, i enjoy learning new things and building projects.
 </br>
 <br>
 <h2>
