@@ -1,6 +1,6 @@
 ## Hi there, i'm Mohamed 👋
 <h3>
-  GitHub Stats
+ &#x1F4C8; GitHub Stats
 </h3>
 
 ![Mohamed GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MAsecurity&show_icons=true&theme=radical)
