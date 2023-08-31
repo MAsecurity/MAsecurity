@@ -14,7 +14,7 @@
  &#x1F310; Socials
 </h3>
 
-<a href="https://www.linkedin.com/in/mohamed-haji-mohamed-533590275/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/mohamed-haji-mohamed-533590275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <h3>
   &#x1F527; Tools and Technologies
