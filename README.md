@@ -1,4 +1,9 @@
 ## Hi there, i'm Mohamed 👋
+<h3>&#x1F4C4; About me</h3>
+
+ - &#x1F4DA; Curiosity-driven, finding joy in discovering new concepts and skills.
+ - &#x1F31F; Embracing the thrill of solving digital puzzles through coding.
+ - &#x1F680; Turning ideas into reality by weaving lines of code.
 
 <h3>&#x1F4C8; GitHub Stats</h3>
 
