@@ -1,5 +1,4 @@
 ## Hi there, i'm Mohamed 👋
-<img width="100%" height="100px" src="https://media.giphy.com/media/smzfl3E7a4iHK/giphy.gif">
 
 <h3>&#x1F4C4; About me</h3>
 
