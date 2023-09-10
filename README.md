@@ -8,8 +8,8 @@
 
 <h3>&#x1F4C8; GitHub Stats</h3>
 
-![Mohamed GitHub stats](https://github-readme-stats.vercel.app/api?username=MAsecurity&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAsecurity&layout=compact)
+![Mohamed GitHub stats](https://github-readme-stats.vercel.app/api?username=MAsecurity&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAsecurity&layout=compact&theme=buefy)
 
 <h3>
  &#x1F310; Socials
