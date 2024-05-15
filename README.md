@@ -1,7 +1,12 @@
 ## Hi there, i'm Mohamed 👋
 
 <h3>&#x1F4C4; About me</h3>
-Hi, I'm Mohamed, a BSc in Cyber Security and Digital Forensics graduate from Middlesex University with project-based experience in software development. I have a strong foundation in cybersecurity, and i'm always eager to learn and apply new    technologies while ensuring security and privacy.
+
+- 💻 Currently learning  and building projects related to software development.
+
+- 📚 Studied BSc Cyber Security and Digital Forensics at Middlesex University.
+
+
 
 <h3>&#x1F4C8; GitHub Stats</h3>
 
@@ -21,7 +26,12 @@ Hi, I'm Mohamed, a BSc in Cyber Security and Digital Forensics graduate from Mid
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 
