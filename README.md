@@ -6,13 +6,13 @@
   Passionate about securing digital assets
   
 - 💻 **Software Development Enthusiast**  
-  Engaged in various coding projects with a focus on building efficient, scalable software.
+  Engaged in various coding projects.
 
 - ☁️ **Currently Learning AWS**  
   Exploring cloud computing with AWS services, aiming to master cloud security and architecture.
 
 - 🧑‍💻 **Hands-On Experience in Coding Projects**  
-  Experienced in developing applications, automating workflows, and working with frameworks.
+  Experienced in developing applications, and testing.
 
 - 🔍 **Always Learning & Growing**  
   Continuously expanding knowledge in cybersecurity, cloud technologies, and software development practices.
