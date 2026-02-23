@@ -1,11 +1,22 @@
-## Hi there, i'm Mohamed 👋
+<h1 align="center">Hi 👋🏾, I'm Mohamed </h1>
+<h3 align="center">DevOps Engineer/Software Engineer | AWS | Cloud, Automation & DataOps</h3>
+<h3>👤 About Me </h3>
 
-<h3>&#x1F4C4; About me</h3>
+- 🛡️ **Cybersecurity & Digital Forensics Graduate**  
+  Passionate about securing digital assets
+  
+- 💻 **Software Development Enthusiast**  
+  Engaged in various coding projects with a focus on building efficient, scalable software.
 
-- 💻 Currently learning  and building projects related to software development.
+- ☁️ **Currently Learning AWS**  
+  Exploring cloud computing with AWS services, aiming to master cloud security and architecture.
 
-- 📚 Studied BSc Cyber Security and Digital Forensics at Middlesex University.
+- 🧑‍💻 **Hands-On Experience in Coding Projects**  
+  Experienced in developing applications, automating workflows, and working with frameworks.
 
+- 🔍 **Always Learning & Growing**  
+  Continuously expanding knowledge in cybersecurity, cloud technologies, and software development practices.
+  
 
 
 <h3>&#x1F4C8; GitHub Stats</h3>
