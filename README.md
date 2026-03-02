@@ -16,19 +16,16 @@
 
 - 🔍 **Always Learning & Growing**  
   Continuously expanding knowledge in cybersecurity, cloud technologies, and software development practices.
-  
 
-
-<h3>&#x1F4C8; GitHub Stats</h3>
-
-![Mohamed GitHub stats](https://github-readme-stats.vercel.app/api?username=MAsecurity&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAsecurity&layout=compact&theme=buefy)
+---
 
 <h3>
  &#x1F310; Socials
 </h3>
 
 <a href="https://www.linkedin.com/in/mohamed-haji-mohamed-533590275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+---
 
 <h3>
    &#x1F6E0; Tools and Technologies
@@ -43,5 +40,13 @@
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+
+---
+<h3>&#x1F4C8; GitHub Stats</h3>
+
+![](https://github-readme-stats.vercel.app/api?username=MAsecurity&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MAsecurity&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAsecurity&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=MAsecurity&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
