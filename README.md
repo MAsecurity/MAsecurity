@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Mohamed </h1>
 <h3 align="center">DevOps Engineer/Software Engineer | AWS | Cloud, Automation & DataOps</h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MAsecurity&label=Profile%20views&color=blue&style=flat-square)
 <h3>👤 About Me </h3>
 
 - 🛡️ **Cybersecurity & Digital Forensics Graduate**  
